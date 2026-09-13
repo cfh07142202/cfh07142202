@@ -1,10 +1,10 @@
-<h2 align="center">Hey, I'm cfh0714</h2>
+<h2> Hey, I'm cfh0714</h2>
 
-<p align="center">I'm a 13-year-old developer (he/him).</p>
+<p> I'm a 13-year-old developer (he/him).</p>
 
 ---
 
-<h3 align="center">Tools I use</h3>
+<h3> Tools I use</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
