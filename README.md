@@ -1,4 +1,5 @@
-## hey i am cfh0714
+## hey i am cfh0714:
+i am 13 mate i use he-him pronouns
 ### Tools i use
 
 <p align="center">
