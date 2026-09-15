@@ -1,7 +1,7 @@
 <h2> Hey, I'm cfh0714</h2>
 
 <p> I'm a 13-year-old developer (he/him).</p>
-<p> Self-taught developer learning as I go.</p>
+<p> Self-taught learning as I go.</p>
 
 ---
 
