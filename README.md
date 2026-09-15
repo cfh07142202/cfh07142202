@@ -3,6 +3,8 @@
 <p> I'm a 13-year-old developer (he/him).</p>
 
 ---
+<p> Self-taught developer learning as I go.</p>
+---
 
 <h3> Tools I use</h3>
 
