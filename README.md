@@ -1,7 +1,6 @@
 Hey, I'm cfh0714 👋
 
-I'm a 13-year-old developer (he/him) learning to code and building things as I go
-i am not a bit fan of python nor do i main it.
+I'm a 13-year-old developer (he/him) learning to code and building things as I go.
 
 Tools & Languages
 
