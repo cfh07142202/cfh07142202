@@ -1,5 +1,3 @@
-Hey, I'm cfh0714 👋
-
 I'm a 14-year-old developer (he/him) learning to code and building things as I go.
 
 Tools & Languages
